@@ -411,5 +411,4 @@
     - Reflexão sobre a jornada de aprendizado.
 
 Este guia cobre um amplo espectro de tópicos essenciais para dominar estruturas de dados, desde os fundamentos até
-técnicas avançadas, preparando você para desafios acadêmicos e profissionais na área da programação.#   e s t r u t u r a s - d e - d a d o s - p y t h o n  
- 
+técnicas avançadas, preparando você para desafios acadêmicos e profissionais na área da programação.
